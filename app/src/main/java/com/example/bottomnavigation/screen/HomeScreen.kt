@@ -21,7 +21,7 @@ fun HomeScreen() {
     ) {
         Text(
             text = "HOME",
-            fontSize = MaterialTheme.typography.headlineSmall.fontSize,
+            fontSize = MaterialTheme.typography.displaySmall.fontSize,
             fontWeight = FontWeight.Bold,
         )
     }

@@ -21,7 +21,7 @@ fun ProfileScreen() {
     ) {
         Text(
             text = "PROFILE",
-            fontSize = MaterialTheme.typography.headlineSmall.fontSize,
+            fontSize = MaterialTheme.typography.displaySmall.fontSize,
             fontWeight = FontWeight.Bold,
         )
     }
