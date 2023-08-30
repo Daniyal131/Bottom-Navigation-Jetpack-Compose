@@ -76,7 +76,6 @@ class MainActivity : ComponentActivity() {
     }
 }
 
-
 @Composable
 fun BottomBar(
     navController: NavHostController, state: MutableState<Boolean>, modifier: Modifier = Modifier
